@@ -1,4 +1,10 @@
-# SubPlayer
+# SubPlayer Fork for Indic Subtitles
+
+Goals -
+
+1. Type in indic scripts with gapi.js
+2. Use an ASR pipeline to make an initial guestimate
+3. Create training data based on corrected data
 
 > SubPlayer is an online subtitle editor
 
@@ -7,18 +13,6 @@
 ## Homepage
 
 [https://subplayer.js.org](https://subplayer.js.org)
-
-## Donations
-
-We accept donations through these channels:
-
-![pay](./public/pay.png)
-
--   [Paypal](https://www.paypal.me/harveyzack)
-
-## QQ Group
-
-![QQ Group](./public/qqgroup.png)
 
 ## License
 
