@@ -12,7 +12,7 @@ Goals -
 
 ## Homepage
 
-[https://subplayer.js.org](https://subplayer.js.org)
+[https://subplayer-mirror.glitch.me/](https://subplayer-mirror.glitch.me/)
 
 ## License
 
